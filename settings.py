@@ -1,0 +1,9 @@
+
+
+cookbook={}
+
+
+DOMAIN = {
+    'cookbook':cookbook
+}
+
